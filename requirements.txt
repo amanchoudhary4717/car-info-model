@@ -1,4 +1,4 @@
-streamlit
+torch==2.2.1+cpu -f https://download.pytorch.org/whl/torch_stable.html
 transformers
-torch
+streamlit
 sentencepiece
